@@ -1,0 +1,7 @@
+[run]
+branch = True
+omit =
+    app/calculator/__main__.py
+
+[report]
+show_missing = True
